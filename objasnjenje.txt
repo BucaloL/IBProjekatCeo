@@ -1,0 +1,9 @@
+Postovani,
+
+1.Pokrenemo WriteMailClient- 
+insert a recieve: ukucamo nasu email adresu
+zatim naslov i tekst 
+2. Pokrenemo ReadMailClient-
+ukucamo 0 i izacice tekst poruke koju smo napisali
+
+Bucalo Lana sf45-2016
